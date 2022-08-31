@@ -1,0 +1,4 @@
+
+opencv-contrib-python==4.5.1.48
+opencv-python==4.4.0.44
+imutils==0.5.3
